@@ -1,6 +1,6 @@
 # python-venv
 
-Simple extension to create and activate a virtual environment.
+Simple VSCode extension to create and activate a virtual environment.
 
 ## Features
 
@@ -11,4 +11,4 @@ The extension contains two commands:
 
 ## Requirements
 
-Must have python > 3.0 installed.
+Must have python > 3.0 installed and in the PATH environment.
